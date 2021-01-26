@@ -11,9 +11,9 @@ It uses `tkinter` to display it.
 ---
 
 
-![image](https://raw.githubusercontent.com/furas/python-cv2-streams-viewer/main/screenshots/screenshot 2021-01-25 15-22-51.png)
+![image](https://raw.githubusercontent.com/furas/python-cv2-streams-viewer/main/screenshots/screenshot_2021-01-25_15-22-51.png)
 
-![image](https://raw.githubusercontent.com/furas/python-cv2-streams-viewer/main/screenshots/screenshot 2021-01-26 00-39-13.png)
+![image](https://raw.githubusercontent.com/furas/python-cv2-streams-viewer/main/screenshots/screenshot_2021-01-26_00-39-13.png)
 
 
 ---

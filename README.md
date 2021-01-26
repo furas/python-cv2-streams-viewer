@@ -21,3 +21,18 @@ It uses `tkinter` to display it.
 ### Notes:
 
 It started as answer for question on Stackoverflow: [How display multi videos with threading using tkinter in python?](https://stackoverflow.com/questions/65876044/how-display-multi-videos-with-threading-using-tkinter-in-python/)
+
+
+See similar idea on blog `pyImageSearch` in [Increasing webcam FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/). 
+
+It creates class
+
+```
+ from imutils.video import WebcamVideoStream
+```
+
+---
+
+**2021.01.26**
+
+Code from single file `main.py` splited into files `videocapture.py`, `tkCamera.py`, `main.py` and moved to folder `src`.
